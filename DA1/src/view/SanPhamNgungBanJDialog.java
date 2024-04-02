@@ -29,7 +29,7 @@ public class SanPhamNgungBanJDialog extends javax.swing.JDialog {
         initComponents();
         setLocationRelativeTo(null);
         fillTable();
-        setTitle("Sản phẩm ngưng bán");
+        setTitle("Sản phẩm hết bán");
         setIconImage(XImage.getAppIcon2()); //logo ứng dụng
     }
 
